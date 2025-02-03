@@ -1,2 +1,6 @@
 # DeepLearningTutorials
-Deep Learning Notebooks adapted for some of our courses by David Holmberg - including PB_SEQ, ULLA, Ai4DD etc 
+Deep Learning Assignment for PB-Seq
+
+You will need to pull this down and upload it into your pod, then unzip it. If you break it, you can just redownload it. 
+Instructions are present in the notebooks, though a quick rundown will be published in Studium.
+
